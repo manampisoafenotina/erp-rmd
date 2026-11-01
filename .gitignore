@@ -1,0 +1,9 @@
+/back_erp_rmd/target/
+/back_erp_rmd/images/
+/front_erp_rmd/.angular/cache
+**/bin/
+**/obj/
+/front_erp_rmd/node_modules
+/front_erp_rmd/dist/
+/front_erp_rmd/build/
+/front_erp_rmd/.vs/
