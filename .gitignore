@@ -1,5 +1,5 @@
 HELP.md
-target/
+/back-erp-rmd/target/
 .mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
@@ -34,13 +34,13 @@ build/
 # See https://docs.github.com/get-started/getting-started-with-git/ignoring-files for more about ignoring files.
 
 # Compiled output
-/dist
-/tmp
-/out-tsc
-/bazel-out
+/front-erp-rmd/dist
+/front-erp-rmd/tmp
+/front-erp-rmd/out-tsc
+/front-erp-rmd/bazel-out
 
 # Node
-/node_modules
+/front-erp-rmd/node_modules
 npm-debug.log
 yarn-error.log
 
@@ -66,10 +66,10 @@ chrome-profiler-events*.json
 
 # Miscellaneous
 .npmrc
-/.angular/cache
+/front-erp-rmd/.angular/cache
 .sass-cache/
 /connect.lock
-/coverage
+/front-erp-rmd/coverage
 /libpeerconnection.log
 testem.log
 /typings
